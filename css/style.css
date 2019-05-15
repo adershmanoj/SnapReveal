@@ -327,7 +327,7 @@ opacity: 1;
   letter-spacing: 0.2em
 }
 .sign h1:before {
-  content: "Flag goes here";
+  content: "Text goes here";
   position: absolute;
   top: 0;
   left: 0;
@@ -340,7 +340,7 @@ opacity: 1;
   animation: flicker 20s linear infinite;
 }
 .sign h1:after {
-  content: "Flag goes here";
+  content: "Text goes here";
   position: absolute;
   top: 0;
   left: 0;
